@@ -1,0 +1,1 @@
+https://old.reddit.com/r/unixporn/comments/m5522z/grub2_had_some_fun_with_grub/

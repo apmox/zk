@@ -14,6 +14,10 @@ $$
   \frac{\partial \rho E}{\partial t} &=
     - \deded{(\rho E + p) u_j}{x_j}
     + \deded{\lambda \dede{T}{x_j}}{x_j}
-    + \dede{(\mu d_{ij} u_i)}{x_j}
+    + \dede{(\sigma_{ij} u_i)}{x_j}
 \end{align}
+$$
+where:
+$$
+  \sigma_{ij} = \mu \left( \dede{u_i}{x_j} + \dede{u_j}{x_i} - \frac{2}{3}\dede{u_s}{x_s} \right)
 $$
